@@ -7,10 +7,7 @@ Designer
 My name is Thai, full name is Bui Ngoc Thai. I am a student at the University of Information Technology, Vietnam National University Ho Chi Minh City (VNU-HCM), in the Department of Computer Networks and Data Communication.
 
 * 🌍  I'm based in Viet Nam
-* ✉️  You can contact me at [23521412@gm.uit.edu.vn](mailto:23521412@gm.uit.edu.vn)
 * 🧠  I'm learning Computer Networks and Data Communication.
-* 🤝  I'm open to collaborating on Projects
-
 ### Skills
 
 
