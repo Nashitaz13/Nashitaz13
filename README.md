@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ngoc Thai</h1>
 <h3 align="center">I am a student at the University of Information Technology, Vietnam National University Ho Chi Minh City (VNU-HCM), in the Department of Computer Networks and Data Communication.</h3>
 
-### Spotify Playing 🎧
-
-[<img src="https://nashitaz13.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/31mscxgcbw7bmmmgqisz7efww7ga)
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nashitaz13&label=Profile%20views&color=0e75b6&style=flat" alt="nashitaz13" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nashitaz13" alt="nashitaz13" /></a> </p>
