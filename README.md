@@ -1,3 +1,8 @@
+
+<a href="#" target="_blank">
+  <img src="svg/ngocthai.svg" width="1200" alt="ngocthai-official" />
+</a>
+
 <h1 align="center">Hi 👋, I'm Ngoc Thai</h1>
 <h3 align="center">I am a student at the University of Information Technology, Vietnam National University Ho Chi Minh City (VNU-HCM), in the Department of Computer Networks and Data Communication.</h3>
 
@@ -21,3 +26,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nashitaz13&show_icons=true&locale=en" alt="nashitaz13" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nashitaz13&" alt="nashitaz13" /></p>
+
+
+
