@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ngoc Thai</h1>
 <h3 align="center">I am a student at the University of Information Technology, Vietnam National University Ho Chi Minh City (VNU-HCM), in the Department of Computer Networks and Data Communication.</h3>
+
 ### Spotify Playing 🎧
 
 [<img src="https://nashitaz13.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/31mscxgcbw7bmmmgqisz7efww7ga)
