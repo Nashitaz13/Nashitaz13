@@ -37,15 +37,6 @@ DevOps fundamentals (containers, CI/CD)**
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nashitaz13&show_icons=true&locale=en&layout=compact" alt="Nashitaz13" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Nashitaz13&show_icons=true&locale=en" alt="Nashitaz13" /></p>
-
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nashitaz13&show_icons=true&locale=en&layout=compact" alt="nashitaz13" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nashitaz13&show_icons=true&locale=en" alt="nashitaz13" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nashitaz13&" alt="nashitaz13" /></p>
 
 
 
