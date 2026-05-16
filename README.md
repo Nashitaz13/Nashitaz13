@@ -3,9 +3,6 @@
   <img src="svg/ngocthai.svg" width="1200" alt="ngocthai-official" />
 </a>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
-</p>
 
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/refs/heads/main/cat-typing.gif" height="30px" width="30px"> I'm Ngoc Thai</h1>
 <h3 align="center">A networking student & future DevOps/Cloud engineer from Viet Nam</h3>
@@ -110,6 +107,12 @@
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
   </a>
 </p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Nashitaz13/Nashitaz13/blob/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Nashitaz13/Nashitaz13/blob/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://github.com/Nashitaz13/Nashitaz13/blob/output/github-contribution-grid-snake.svg">
+</picture>
 
 
 
