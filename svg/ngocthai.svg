@@ -282,7 +282,7 @@
       .tsg-docker-third-floor {
         animation: tsg-docker-third-floor-ani 5s ease-in infinite;
       }
-      
+
     </style>
   </defs>
   <g id="tsg-docker-docker-icon">
@@ -303,7 +303,7 @@
       <rect class="tsg-docker-docker" height="42.691" width="47.507" x="286.2" y="199.043"/>
     </g>
     </g>
-    <path class="tsg-docker-docker" 
+    <path class="tsg-docker-docker"
       d="M476.441,219.095c-10.35-6.972-34.21-9.487-52.537-6.036 c-2.371-17.249-12.003-32.27-29.538-45.782l-10.062-6.685l-6.685,10.062c-13.225,19.98-16.817,52.896-2.658,74.602     c-6.252,3.377-18.545,7.978-34.786,7.689H27.757c-6.252,36.511,4.169,83.945,31.624,116.501     c26.663,31.551,66.623,47.579,118.872,47.579c113.124,0,196.851-52.104,236.021-146.76c15.381,0.288,48.584,0.073,65.618-32.483     c1.078-1.797,4.743-9.488,6.107-12.291L476.441,219.095z"/>
   </g>
 </svg></div>
@@ -312,11 +312,11 @@
   <defs>
     <style>
       @keyframes tsg-aws-aws-curve-ani-1 {
-        0% {stroke-dashoffset: 22;} 
+        0% {stroke-dashoffset: 22;}
         18%, 100% {stroke-dashoffset: 0;}
       }
       @keyframes tsg-aws-aws-curve-ani-2 {
-        0%, 23% {stroke-dashoffset: 12;} 
+        0%, 23% {stroke-dashoffset: 12;}
         35%, 100% {stroke-dashoffset: 0;}
       }
       @keyframes tsg-aws-aws-text-ani {
@@ -343,7 +343,7 @@
         stroke-dasharray: 12;
         stroke-dashoffset: -12;
         animation: tsg-aws-aws-curve-ani-2 5s linear infinite;
-      }  
+      }
     </style>
     <mask id="tsg-aws-aws-curve-mask1">
       <path fill="white" d="M21.698 16.207c-2.626 1.94-6.442 2.969-9.722 2.969-4.598 0-8.74-1.7-11.87-4.526-.247-.223-.024-.527.272-.351 3.384 1.963 7.559 3.153 11.877 3.153 2.914 0 6.114-.607 9.06-1.852.439-.2.814.287.383.607z" />
@@ -481,14 +481,14 @@
           stroke-dashoffset: 0;
         }
       }
-      
+
       .tsg-github-github {
         transform: scale(3) translate(4.7px, 4.7px);
         stroke: black;
         fill: transparent;
         stroke-width: 0.5;
         stroke-dasharray: 140;
-        stroke-dashoffset: 140; 
+        stroke-dashoffset: 140;
         animation: tsg-github-draw-ani 5s linear infinite;
       }
       .tsg-github-github-mask {
