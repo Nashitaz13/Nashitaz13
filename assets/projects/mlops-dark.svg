@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="940" height="316" viewBox="0 0 940 316" role="img" aria-labelledby="title desc">
+<title id="title">Drift-Aware Multi-Model Serving</title>
+<desc id="desc">Research prototype for model-serving operations and data drift monitoring. AWS / K3s deployments, rolling updates, rollback and S3 model sync. Infrastructure health and drift monitoring with Grafana and Evidently AI. Tenant-aware control plane and workflow orchestration components.</desc>
+<rect x="1" y="1" width="938" height="314" rx="16" fill="#102a28" stroke="#5ed7b5" stroke-opacity=".6"/>
+<rect x="24" y="28" width="4" height="54" rx="2" fill="#5ed7b5"/>
+<g font-family="Segoe UI, Arial, sans-serif">
+<text x="42" y="39" fill="#5ed7b5" font-size="12" font-weight="700" letter-spacing="1.5">MLOPS / OBSERVABILITY / RESEARCH</text>
+<text x="42" y="76" fill="#edf3fb" font-size="27" font-weight="700">Drift-Aware Multi-Model Serving</text>
+<text x="32" y="111" fill="#b4c1d2" font-size="17">Research prototype for model-serving operations and data drift monitoring.</text>
+<circle cx="36" cy="145" r="2.5" fill="#5ed7b5"/><text x="49" y="151" fill="#edf3fb" font-size="16">AWS / K3s deployments, rolling updates, rollback and S3 model sync.</text>
+<circle cx="36" cy="172" r="2.5" fill="#5ed7b5"/><text x="49" y="178" fill="#edf3fb" font-size="16">Infrastructure health and drift monitoring with Grafana and Evidently AI.</text>
+<circle cx="36" cy="199" r="2.5" fill="#5ed7b5"/><text x="49" y="205" fill="#edf3fb" font-size="16">Tenant-aware control plane and workflow orchestration components.</text>
+<rect x="32" y="228" width="46.2" height="27" rx="6" fill="#5ed7b5" fill-opacity=".11"/><text x="44" y="246" fill="#5ed7b5" font-size="13" font-weight="600">AWS</text>
+<rect x="87.2" y="228" width="46.2" height="27" rx="6" fill="#5ed7b5" fill-opacity=".11"/><text x="99.2" y="246" fill="#5ed7b5" font-size="13" font-weight="600">K3s</text>
+<rect x="142.4" y="228" width="127.60000000000001" height="27" rx="6" fill="#5ed7b5" fill-opacity=".11"/><text x="154.4" y="246" fill="#5ed7b5" font-size="13" font-weight="600">Argo Workflows</text>
+<rect x="279" y="228" width="90.60000000000001" height="27" rx="6" fill="#5ed7b5" fill-opacity=".11"/><text x="291" y="246" fill="#5ed7b5" font-size="13" font-weight="600">Karpenter</text>
+<rect x="378.6" y="228" width="112.80000000000001" height="27" rx="6" fill="#5ed7b5" fill-opacity=".11"/><text x="390.6" y="246" fill="#5ed7b5" font-size="13" font-weight="600">Evidently AI</text>
+<path d="M32 273H908" stroke="#5ed7b5" stroke-opacity=".2"/>
+<text x="32" y="297" fill="#b4c1d2" font-size="13">Team of 2 / Co-authored paper accepted at CSoNet 2026</text>
+<text x="908" y="297" text-anchor="end" fill="#5ed7b5" font-size="14" font-weight="600">Explore repository →</text>
+</g></svg>

@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="940" height="316" viewBox="0 0 940 316" role="img" aria-labelledby="title desc">
+<title id="title">SageLMS</title>
+<desc id="desc">Microservices delivery with automated builds, security checks and GitOps. GitHub Actions pipelines with Docker builds, Trivy scans and SBOMs. Kubernetes / Kustomize manifests and environment-specific configuration. Smoke tests, monitoring and runbooks for rollback and backup / restore.</desc>
+<rect x="1" y="1" width="938" height="314" rx="16" fill="#f7f2ff" stroke="#8250df" stroke-opacity=".6"/>
+<rect x="24" y="28" width="4" height="54" rx="2" fill="#8250df"/>
+<g font-family="Segoe UI, Arial, sans-serif">
+<text x="42" y="39" fill="#8250df" font-size="12" font-weight="700" letter-spacing="1.5">DEVSECOPS / DELIVERY AUTOMATION</text>
+<text x="42" y="76" fill="#172b40" font-size="27" font-weight="700">SageLMS</text>
+<text x="32" y="111" fill="#455a70" font-size="17">Microservices delivery with automated builds, security checks and GitOps.</text>
+<circle cx="36" cy="145" r="2.5" fill="#8250df"/><text x="49" y="151" fill="#172b40" font-size="16">GitHub Actions pipelines with Docker builds, Trivy scans and SBOMs.</text>
+<circle cx="36" cy="172" r="2.5" fill="#8250df"/><text x="49" y="178" fill="#172b40" font-size="16">Kubernetes / Kustomize manifests and environment-specific configuration.</text>
+<circle cx="36" cy="199" r="2.5" fill="#8250df"/><text x="49" y="205" fill="#172b40" font-size="16">Smoke tests, monitoring and runbooks for rollback and backup / restore.</text>
+<rect x="32" y="228" width="127.60000000000001" height="27" rx="6" fill="#8250df" fill-opacity=".11"/><text x="44" y="246" fill="#8250df" font-size="13" font-weight="600">GitHub Actions</text>
+<rect x="168.60000000000002" y="228" width="68.4" height="27" rx="6" fill="#8250df" fill-opacity=".11"/><text x="180.60000000000002" y="246" fill="#8250df" font-size="13" font-weight="600">Docker</text>
+<rect x="246.00000000000003" y="228" width="98" height="27" rx="6" fill="#8250df" fill-opacity=".11"/><text x="258" y="246" fill="#8250df" font-size="13" font-weight="600">Kubernetes</text>
+<rect x="353" y="228" width="61" height="27" rx="6" fill="#8250df" fill-opacity=".11"/><text x="365" y="246" fill="#8250df" font-size="13" font-weight="600">Trivy</text>
+<rect x="423" y="228" width="68.4" height="27" rx="6" fill="#8250df" fill-opacity=".11"/><text x="435" y="246" fill="#8250df" font-size="13" font-weight="600">GitOps</text>
+<path d="M32 273H908" stroke="#8250df" stroke-opacity=".2"/>
+<text x="32" y="297" fill="#455a70" font-size="13">Academic project / Team of 4</text>
+<text x="908" y="297" text-anchor="end" fill="#8250df" font-size="14" font-weight="600">Explore repository →</text>
+</g></svg>
