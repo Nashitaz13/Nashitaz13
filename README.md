@@ -65,51 +65,51 @@ I enjoy making environments reproducible, investigating deployment issues, and w
 </a>
 
 
-## Technical Toolkit
+<h2 align="center">Technical Toolkit</h2>
 
-### Cloud & Infrastructure
+<h3 align="center">Cloud &amp; Infrastructure</h3>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,terraform,ansible&amp;theme=dark" height="44" alt="Cloud & Infrastructure technology icons" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,terraform,ansible&amp;theme=dark" height="56" alt="Cloud & Infrastructure technology icons" />
 </p>
 
-AWS EC2, EKS, VPC, S3, IAM · Terraform · Ansible (basic)
+<p align="center">AWS EC2, EKS, VPC, S3, IAM · Terraform · Ansible (basic)</p>
 
-### Containers & Orchestration
+<h3 align="center">Containers &amp; Orchestration</h3>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes&amp;theme=dark" height="44" alt="Docker and Kubernetes" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/helm/helm-original.svg" height="44" width="44" alt="Helm" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes&amp;theme=dark" height="56" alt="Docker and Kubernetes" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/helm/helm-original.svg" height="56" width="56" alt="Helm" />
 </p>
 
-Docker · Docker Compose · Kubernetes/K3s · Helm
+<p align="center">Docker · Docker Compose · Kubernetes/K3s · Helm</p>
 
-### CI/CD & Automation
+<h3 align="center">CI/CD &amp; Automation</h3>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=githubactions,jenkins,git&amp;theme=dark" height="44" alt="GitHub Actions, Jenkins and Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/argocd/argocd-original.svg" height="44" width="44" alt="Argo CD" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=githubactions,jenkins,git&amp;theme=dark" height="56" alt="GitHub Actions, Jenkins and Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/argocd/argocd-original.svg" height="56" width="56" alt="Argo CD" />
 </p>
 
-GitHub Actions · Jenkins · Argo CD · Git
+<p align="center">GitHub Actions · Jenkins · Argo CD · Git</p>
 
-### Scripting & Operating Systems
+<h3 align="center">Scripting &amp; Operating Systems</h3>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=bash,py,linux&amp;theme=dark" height="44" alt="Scripting & Operating Systems technology icons" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=bash,py,linux&amp;theme=dark" height="56" alt="Scripting & Operating Systems technology icons" />
 </p>
 
-Bash · Python · Linux
+<p align="center">Bash · Python · Linux</p>
 
-### Monitoring & Operations
+<h3 align="center">Monitoring &amp; Operations</h3>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=prometheus,grafana&amp;theme=dark" height="44" alt="Monitoring & Operations technology icons" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=prometheus,grafana&amp;theme=dark" height="56" alt="Monitoring & Operations technology icons" />
 </p>
 
-Prometheus · Grafana · Centralized logging · Health checks · Deployment & rollback
+<p align="center">Prometheus · Grafana · Centralized logging<br />Health checks · Deployment &amp; rollback</p>
 
-**Networking:** TCP/IP · DNS · DHCP · Cloud networking · Firewall fundamentals
+<p align="center"><strong>Networking</strong><br />TCP/IP · DNS · DHCP · Cloud networking · Firewall fundamentals</p>
 
 ## What I'm Working Toward
 
