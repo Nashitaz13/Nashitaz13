@@ -36,86 +36,80 @@ My academic and research projects span AWS infrastructure, Kubernetes networking
 
 I enjoy making environments reproducible, investigating deployment issues, and writing runbooks that help teammates operate what we build.
 
-**Based in** Ho Chi Minh City, Vietnam &nbsp; · &nbsp; **Graduating** 2027 &nbsp; · &nbsp; 
+**Based in** Ho Chi Minh City, Vietnam &nbsp; · &nbsp; **Graduating** 2027 &nbsp; · &nbsp; **GPA** 3.5/4.0
 
 ## Featured Projects
 
-<table>
-  <tr>
-    <td>
-      <sub>CLOUD INFRASTRUCTURE · KUBERNETES NETWORKING</sub>
-      <h3><a href="https://github.com/daithang59/NT531_EKS-Cilium-Kubeproxy-Benchmark">EKS Cilium vs kube-proxy Benchmark</a></h3>
-      <p>A controlled comparison of Cilium eBPF service routing and kube-proxy/iptables on AWS EKS.</p>
-      <p><strong>My contribution</strong></p>
-      <ul>
-        <li>Provisioned EKS and VPC infrastructure with Terraform, including subnets, route tables, and managed node groups.</li>
-        <li>Automated workload deployments, health checks, and Fortio network tests with Bash and kubectl.</li>
-        <li>Monitored cluster performance with Prometheus, Grafana, and Hubble; documented deployment, troubleshooting, and rollback procedures.</li>
-      </ul>
-      <p><code>AWS EKS</code> <code>Terraform</code> <code>Cilium</code> <code>Bash</code> <code>Fortio</code> <code>Hubble</code></p>
-      <p><sub>Academic project · Team of 3</sub></p>
-      <p><a href="https://github.com/daithang59/NT531_EKS-Cilium-Kubeproxy-Benchmark"><strong>Explore repository →</strong></a></p>
-    </td>
-  </tr>
-</table>
+<a href="https://github.com/daithang59/NT531_EKS-Cilium-Kubeproxy-Benchmark">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/projects/eks-benchmark-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="assets/projects/eks-benchmark-light.svg" />
+    <img src="assets/projects/eks-benchmark-light.svg" width="100%" alt="EKS Cilium vs kube-proxy Benchmark: Comparing eBPF service routing with the kube-proxy / iptables baseline. Academic project / Team of 3" />
+  </picture>
+</a>
 
-<table>
-  <tr>
-    <td>
-      <sub>DEVSECOPS · DELIVERY AUTOMATION</sub>
-      <h3><a href="https://github.com/daithang59/sagelms">SageLMS</a></h3>
-      <p>A microservices learning platform with automated build, security scanning, and GitOps deployment workflows.</p>
-      <p><strong>My contribution</strong></p>
-      <ul>
-        <li>Built GitHub Actions workflows with pull request checks, Docker image builds, Trivy vulnerability scans, and SBOM generation.</li>
-        <li>Maintained Kubernetes/Kustomize manifests and configured ExternalSecret injection and environment-specific ConfigMaps.</li>
-        <li>Collaborated on smoke tests and monitoring; wrote runbooks for rollback, backup/restore, and troubleshooting.</li>
-      </ul>
-      <p><code>GitHub Actions</code> <code>Docker</code> <code>Kubernetes</code> <code>Kustomize</code> <code>Trivy</code> <code>GitOps</code></p>
-      <p><sub>Academic project · Team of 4</sub></p>
-      <p><a href="https://github.com/daithang59/sagelms"><strong>Explore repository →</strong></a></p>
-    </td>
-  </tr>
-</table>
+<a href="https://github.com/daithang59/sagelms">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/projects/sagelms-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="assets/projects/sagelms-light.svg" />
+    <img src="assets/projects/sagelms-light.svg" width="100%" alt="SageLMS: Microservices delivery with automated builds, security checks and GitOps. Academic project / Team of 4" />
+  </picture>
+</a>
 
-<table>
-  <tr>
-    <td>
-      <sub>MLOPS · OBSERVABILITY · RESEARCH</sub>
-      <h3><a href="https://github.com/Viet-Hoang-2005/MLOps-paas-system">Drift-Aware Multi-Model Serving</a></h3>
-      <p>A research prototype for operating multiple model-serving workloads and monitoring data drift.</p>
-      <p><strong>My contribution</strong></p>
-      <ul>
-        <li>Deployed containerized services on AWS and K3s with health checks, rolling updates, automated rollback, and S3 model synchronization.</li>
-        <li>Configured Prometheus, Grafana, and Evidently AI for infrastructure health and data drift monitoring.</li>
-        <li>Implemented tenant-aware control-plane and workflow orchestration components using Argo Workflows and Karpenter autoscaling.</li>
-      </ul>
-      <p><strong>Research:</strong> Co-authored a paper accepted at CSoNet 2026.</p>
-      <p><code>AWS</code> <code>K3s</code> <code>Argo Workflows</code> <code>Karpenter</code> <code>Evidently AI</code></p>
-      <p><sub>Research prototype · Team of 2</sub></p>
-      <p><a href="https://github.com/Viet-Hoang-2005/MLOps-paas-system"><strong>Explore repository →</strong></a></p>
-    </td>
-  </tr>
-</table>
+<a href="https://github.com/Viet-Hoang-2005/MLOps-paas-system">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/projects/mlops-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="assets/projects/mlops-light.svg" />
+    <img src="assets/projects/mlops-light.svg" width="100%" alt="Drift-Aware Multi-Model Serving: Research prototype for model-serving operations and data drift monitoring. Team of 2 / Co-authored paper accepted at CSoNet 2026" />
+  </picture>
+</a>
+
 
 ## Technical Toolkit
 
+### Cloud & Infrastructure
+
 <p>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square" alt="AWS" />
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square" alt="Terraform" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square" alt="Kubernetes" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square" alt="Docker" />
-  <img src="https://img.shields.io/badge/Linux-333333?style=flat-square" alt="Linux" />
+  <img src="https://skillicons.dev/icons?i=aws,terraform,ansible&amp;theme=dark" height="44" alt="Cloud & Infrastructure technology icons" />
 </p>
 
-| Area | Technologies & practices |
-| :--- | :--- |
-| Cloud & infrastructure | AWS EC2, EKS, VPC, S3, IAM · Terraform · Ansible (basic) |
-| Containers & orchestration | Docker · Docker Compose · Kubernetes/K3s · Helm |
-| CI/CD & GitOps | GitHub Actions · Jenkins · Argo CD · Git |
-| Scripting & automation | Bash · Python |
-| Monitoring & operations | Prometheus · Grafana · Centralized logging · Health checks · Deployment & rollback |
-| Networking | TCP/IP · DNS · DHCP · Cloud networking · Firewall fundamentals |
+AWS EC2, EKS, VPC, S3, IAM · Terraform · Ansible (basic)
+
+### Containers & Orchestration
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes&amp;theme=dark" height="44" alt="Docker and Kubernetes" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/helm/helm-original.svg" height="44" width="44" alt="Helm" />
+</p>
+
+Docker · Docker Compose · Kubernetes/K3s · Helm
+
+### CI/CD & Automation
+
+<p>
+  <img src="https://skillicons.dev/icons?i=githubactions,jenkins,git&amp;theme=dark" height="44" alt="GitHub Actions, Jenkins and Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/argocd/argocd-original.svg" height="44" width="44" alt="Argo CD" />
+</p>
+
+GitHub Actions · Jenkins · Argo CD · Git
+
+### Scripting & Operating Systems
+
+<p>
+  <img src="https://skillicons.dev/icons?i=bash,py,linux&amp;theme=dark" height="44" alt="Scripting & Operating Systems technology icons" />
+</p>
+
+Bash · Python · Linux
+
+### Monitoring & Operations
+
+<p>
+  <img src="https://skillicons.dev/icons?i=prometheus,grafana&amp;theme=dark" height="44" alt="Monitoring & Operations technology icons" />
+</p>
+
+Prometheus · Grafana · Centralized logging · Health checks · Deployment & rollback
+
+**Networking:** TCP/IP · DNS · DHCP · Cloud networking · Firewall fundamentals
 
 ## What I'm Working Toward
 
@@ -123,6 +117,19 @@ I enjoy making environments reproducible, investigating deployment issues, and w
 - Improving delivery workflows through CI/CD, security checks, and GitOps.
 - Understanding Kubernetes networking and the performance of service routing.
 - Connecting monitoring signals to practical troubleshooting and recovery steps.
+
+## GitHub Statistics
+
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=Nashitaz13&amp;show_icons=true&amp;hide_rank=true&amp;theme=github_dark&amp;border_color=30363d&amp;title_color=58a6ff&amp;border_radius=12" height="175" alt="Ngoc Thai's public GitHub statistics" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Nashitaz13&amp;layout=compact&amp;langs_count=6&amp;theme=github_dark&amp;border_color=30363d&amp;title_color=58a6ff&amp;border_radius=12" height="175" alt="Language distribution in public repositories" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Nashitaz13&amp;theme=github-dark-blue&amp;border=30363D&amp;border_radius=12" height="175" alt="GitHub contribution streak" />
+</p>
+
+<sub>Language statistics describe public repository code, rather than proficiency.</sub>
 
 <details>
   <summary><strong>GitHub Activity</strong></summary>
