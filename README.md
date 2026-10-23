@@ -36,7 +36,7 @@ My academic and research projects span AWS infrastructure, Kubernetes networking
 
 I enjoy making environments reproducible, investigating deployment issues, and writing runbooks that help teammates operate what we build.
 
-**Based in** Ho Chi Minh City, Vietnam &nbsp; · &nbsp; **Graduating** 2027 &nbsp; · &nbsp; **GPA** 3.5/4.0
+**Based in** Ho Chi Minh City, Vietnam &nbsp; · &nbsp; **Graduating** 2027
 
 ## Featured Projects
 
