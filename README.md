@@ -1,174 +1,148 @@
-<a href="https://github.com/Nashitaz13">
-  <img src="svg/ngocthai.svg" width="1200" alt="Ngoc Thai profile banner" />
-</a>
-
-<h1 align="center">
-  Hey
-  <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/refs/heads/main/cat-typing.gif" height="30" width="30" alt="typing cat" />
-  I'm Ngoc Thai
-</h1>
-
-<h3 align="center">DevOps Intern | Cloud Infrastructure, CI/CD & Automation</h3>
+<!-- Profile README for Nashitaz13/Nashitaz13.
+     Uses your existing svg/ngocthai.svg banner. -->
 
 <p align="center">
-  <a href="https://komarev.com/ghpvc/?username=Nashitaz13">
-    <img src="https://komarev.com/ghpvc/?username=Nashitaz13&label=Profile%20views&color=00FFFF&style=flat-square" alt="Profile views" />
-  </a>
+  <img src="svg/ngocthai.svg" width="100%" alt="Ngoc Thai" />
 </p>
 
-## 👋 About Me
-
-I'm a final-year Computer Networks and Data Communications student at the University of Information Technology, VNU-HCM, with a GPA of 3.5/4.0.
-
-I’m interested in DevOps, cloud infrastructure, and platform engineering. Through academic and research projects, I’ve gained hands-on experience with AWS, Terraform, Linux, Docker, Kubernetes, CI/CD, monitoring, and automation.
-
-- 🎓 Expected graduation: 2027
-- ☁️ Interested in AWS, cloud infrastructure, and Kubernetes
-- ⚙️ Learning and building with CI/CD, Infrastructure as Code, and automation
-- 📈 Interested in monitoring, troubleshooting, and reliable deployments
-- 🌏 Ho Chi Minh City, Vietnam
-- 💬 English: Intermediate, conversational
-
-## 🎯 Focus Areas
-
-- DevOps and cloud infrastructure
-- CI/CD automation and GitOps
-- Kubernetes operations and container platforms
-- Infrastructure as Code
-- Monitoring, observability, and troubleshooting
-- Networking fundamentals and cloud networking
-
-## 🚀 Featured Projects
-
-### EKS Cilium vs kube-proxy Datapath Benchmark
-
-**Team of 3 · AWS EKS · Terraform · Cilium · Kubernetes · Bash · Fortio**
-
-Compared Cilium eBPF service routing with the kube-proxy/iptables baseline on AWS EKS.
-
-- Provisioned EKS and VPC infrastructure with Terraform.
-- Automated workload deployment, health checks, and Fortio benchmark runs.
-- Monitored cluster and network metrics with Prometheus, Grafana, and Hubble.
-- Documented deployment, troubleshooting, and rollback procedures.
-
-[View project](https://github.com/daithang59/NT531_EKS-Cilium-Kubeproxy-Benchmark)
-
-### SageLMS DevSecOps CI/CD & Microservices Platform
-
-**Team of 4 · GitHub Actions · Docker · Kubernetes · Kustomize · Trivy · Argo CD**
-
-Built CI/CD workflows for a microservices learning platform.
-
-- Added pull request checks and automated Docker image builds.
-- Integrated Trivy vulnerability scans and SBOM generation.
-- Maintained Kubernetes and Kustomize manifests and GitOps deployments.
-- Helped validate deployments with smoke tests and Prometheus/Grafana monitoring.
-
-[View project](https://github.com/daithang59/sagelms)
-
-### Drift-Aware MLOps Framework for Multi-Model Serving
-
-**Research prototype · AWS · K3s · Prometheus · Grafana · Evidently AI · Argo Workflows**
-
-Worked on a framework for deploying and monitoring multiple model-serving workloads.
-
-- Configured health checks, rolling updates, automated rollback, and S3 model synchronization.
-- Set up infrastructure health and data drift monitoring.
-- Co-authored a research paper accepted at **CSoNet 2026**.
-
-[View project](https://github.com/Viet-Hoang-2005/MLOps-paas-system)
-
-## 🛠️ Languages & Tools
-
-<h3 align="center">Cloud & Infrastructure</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="44" />
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="Terraform" width="40" />
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" alt="Ansible" width="40" />
-</p>
-
-<h3 align="center">Containers & Orchestration</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" />
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg" alt="Kubernetes" width="40" />
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/helm/helm-original.svg" alt="Helm" width="40" />
-</p>
-
-<h3 align="center">CI/CD & Automation</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" alt="GitHub Actions" width="40" />
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="40" />
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/argocd/argocd-original.svg" alt="Argo CD" width="40" />
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="40" />
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />
-</p>
-
-<h3 align="center">Monitoring & Operating Systems</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" alt="Prometheus" width="40" />
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" alt="Grafana" width="40" />
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" />
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" />
-</p>
-
-**Also familiar with:** AWS (EC2, EKS, VPC, S3, IAM), Docker Compose, Kubernetes/K3s, networking (TCP/IP, DNS, DHCP), health checks, deployment and rollback procedures.
-
-## 🎓 Education
-
-**University of Information Technology, VNU-HCM**  
-Computer Networks and Data Communications  
-Final-year student · Expected graduation: 2027 · GPA: 3.5/4.0
-
-## 📊 GitHub Stats
+<h1 align="center">Bui Ngoc Thai</h1>
 
 <p align="center">
-  <a href="https://github.com/Nashitaz13">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=Nashitaz13&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400" alt="Ngoc Thai's GitHub statistics" />
-  </a>
-  <img height="180" src="https://streak-stats.demolab.com/?user=Nashitaz13&theme=radical&hide_border=true" alt="Ngoc Thai's GitHub contribution streak" />
+  <strong>Cloud Infrastructure &nbsp; / &nbsp; CI/CD &nbsp; / &nbsp; Automation</strong>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nashitaz13&theme=redical&hide_border=true" alt="Ngoc Thai's GitHub activity graph" />
-</p>
-
-## 🔗 Connect with Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/nashitaz13">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:buingocthai00@gmail.com">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Email" width="40" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/Nashitaz13">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/GitHub.svg" alt="GitHub" width="40" />
-  </a>
+  Computer Networks student at UIT, VNU-HCM<br />
+  Building practical experience in DevOps and cloud engineering.
 </p>
 
 <p align="center">
-  <i>Open to learning opportunities and collaboration in DevOps, cloud infrastructure, and platform engineering.</i>
+  <a href="https://www.linkedin.com/in/nashitaz13/">LinkedIn</a>
+  &nbsp; · &nbsp;
+  <a href="mailto:buingocthai00@gmail.com">Email</a>
+  &nbsp; · &nbsp;
+  <a href="#featured-projects">Projects</a>
+  &nbsp; · &nbsp;
+  <a href="#technical-toolkit">Toolkit</a>
 </p>
 
-## 🐍 My Contributions
+---
 
-<p align="center">
+## About
+
+I'm a final-year **Computer Networks and Data Communications** student at the **University of Information Technology, VNU-HCM**, seeking a **DevOps internship**.
+
+My academic and research projects span AWS infrastructure, Kubernetes networking, DevSecOps pipelines, and MLOps. I work with Terraform, Bash, and Python to automate deployments and operations, and with Prometheus and Grafana to understand how systems behave.
+
+I enjoy making environments reproducible, investigating deployment issues, and writing runbooks that help teammates operate what we build.
+
+**Based in** Ho Chi Minh City, Vietnam &nbsp; · &nbsp; **Graduating** 2027 &nbsp; · &nbsp; 
+
+## Featured Projects
+
+<table>
+  <tr>
+    <td>
+      <sub>CLOUD INFRASTRUCTURE · KUBERNETES NETWORKING</sub>
+      <h3><a href="https://github.com/daithang59/NT531_EKS-Cilium-Kubeproxy-Benchmark">EKS Cilium vs kube-proxy Benchmark</a></h3>
+      <p>A controlled comparison of Cilium eBPF service routing and kube-proxy/iptables on AWS EKS.</p>
+      <p><strong>My contribution</strong></p>
+      <ul>
+        <li>Provisioned EKS and VPC infrastructure with Terraform, including subnets, route tables, and managed node groups.</li>
+        <li>Automated workload deployments, health checks, and Fortio network tests with Bash and kubectl.</li>
+        <li>Monitored cluster performance with Prometheus, Grafana, and Hubble; documented deployment, troubleshooting, and rollback procedures.</li>
+      </ul>
+      <p><code>AWS EKS</code> <code>Terraform</code> <code>Cilium</code> <code>Bash</code> <code>Fortio</code> <code>Hubble</code></p>
+      <p><sub>Academic project · Team of 3</sub></p>
+      <p><a href="https://github.com/daithang59/NT531_EKS-Cilium-Kubeproxy-Benchmark"><strong>Explore repository →</strong></a></p>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td>
+      <sub>DEVSECOPS · DELIVERY AUTOMATION</sub>
+      <h3><a href="https://github.com/daithang59/sagelms">SageLMS</a></h3>
+      <p>A microservices learning platform with automated build, security scanning, and GitOps deployment workflows.</p>
+      <p><strong>My contribution</strong></p>
+      <ul>
+        <li>Built GitHub Actions workflows with pull request checks, Docker image builds, Trivy vulnerability scans, and SBOM generation.</li>
+        <li>Maintained Kubernetes/Kustomize manifests and configured ExternalSecret injection and environment-specific ConfigMaps.</li>
+        <li>Collaborated on smoke tests and monitoring; wrote runbooks for rollback, backup/restore, and troubleshooting.</li>
+      </ul>
+      <p><code>GitHub Actions</code> <code>Docker</code> <code>Kubernetes</code> <code>Kustomize</code> <code>Trivy</code> <code>GitOps</code></p>
+      <p><sub>Academic project · Team of 4</sub></p>
+      <p><a href="https://github.com/daithang59/sagelms"><strong>Explore repository →</strong></a></p>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td>
+      <sub>MLOPS · OBSERVABILITY · RESEARCH</sub>
+      <h3><a href="https://github.com/Viet-Hoang-2005/MLOps-paas-system">Drift-Aware Multi-Model Serving</a></h3>
+      <p>A research prototype for operating multiple model-serving workloads and monitoring data drift.</p>
+      <p><strong>My contribution</strong></p>
+      <ul>
+        <li>Deployed containerized services on AWS and K3s with health checks, rolling updates, automated rollback, and S3 model synchronization.</li>
+        <li>Configured Prometheus, Grafana, and Evidently AI for infrastructure health and data drift monitoring.</li>
+        <li>Implemented tenant-aware control-plane and workflow orchestration components using Argo Workflows and Karpenter autoscaling.</li>
+      </ul>
+      <p><strong>Research:</strong> Co-authored a paper accepted at CSoNet 2026.</p>
+      <p><code>AWS</code> <code>K3s</code> <code>Argo Workflows</code> <code>Karpenter</code> <code>Evidently AI</code></p>
+      <p><sub>Research prototype · Team of 2</sub></p>
+      <p><a href="https://github.com/Viet-Hoang-2005/MLOps-paas-system"><strong>Explore repository →</strong></a></p>
+    </td>
+  </tr>
+</table>
+
+## Technical Toolkit
+
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square" alt="AWS" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square" alt="Terraform" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square" alt="Docker" />
+  <img src="https://img.shields.io/badge/Linux-333333?style=flat-square" alt="Linux" />
+</p>
+
+| Area | Technologies & practices |
+| :--- | :--- |
+| Cloud & infrastructure | AWS EC2, EKS, VPC, S3, IAM · Terraform · Ansible (basic) |
+| Containers & orchestration | Docker · Docker Compose · Kubernetes/K3s · Helm |
+| CI/CD & GitOps | GitHub Actions · Jenkins · Argo CD · Git |
+| Scripting & automation | Bash · Python |
+| Monitoring & operations | Prometheus · Grafana · Centralized logging · Health checks · Deployment & rollback |
+| Networking | TCP/IP · DNS · DHCP · Cloud networking · Firewall fundamentals |
+
+## What I'm Working Toward
+
+- Building reproducible cloud environments with Infrastructure as Code.
+- Improving delivery workflows through CI/CD, security checks, and GitOps.
+- Understanding Kubernetes networking and the performance of service routing.
+- Connecting monitoring signals to practical troubleshooting and recovery steps.
+
+<details>
+  <summary><strong>GitHub Activity</strong></summary>
+  <br />
+  <p>
+    <a href="https://github.com/Nashitaz13?tab=overview">Browse my contributions on GitHub</a>
+  </p>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Nashitaz13/Nashitaz13/blob/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Nashitaz13/Nashitaz13/blob/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub contribution snake animation" src="https://github.com/Nashitaz13/Nashitaz13/blob/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nashitaz13/Nashitaz13/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nashitaz13/Nashitaz13/output/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/Nashitaz13/Nashitaz13/output/github-contribution-grid-snake.svg" width="100%" alt="GitHub contribution grid animation" />
   </picture>
+</details>
+
+---
+
+<p align="center">
+  <strong>Let's connect</strong><br />
+  Open to DevOps internships and collaboration on cloud infrastructure and automation.<br /><br />
+  <a href="mailto:buingocthai00@gmail.com">buingocthai00@gmail.com</a>
+  &nbsp; · &nbsp;
+  <a href="https://www.linkedin.com/in/nashitaz13/">LinkedIn</a>
 </p>
